@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sayed</h1>  
 <h3 align="center">A passionate frontend developer from Egypt</h3>  
   
-- 🔭 I’m currently working on **My own React-native Expo Application**  
-  
-- 🌱 I’m currently learning **React-native, Angular**  
+- 🔭 I’m currently working as **Full Stack Web Developer**  
   
 - 👨‍💻 All of my projects are available at [https://msabdalaal.github.io/MohamedSayed/](https://msabdalaal.github.io/MohamedSayed/)  
   
-- 💬 Ask me about **React-js, Typescript**  
+- 💬 Ask me about **React-js, Typescript, Node-js**  
   
 - 📫 How to reach me **medosayed239@gmail.com**  
   
